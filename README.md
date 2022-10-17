@@ -57,7 +57,7 @@ Berlin-based developer, interested in crafting fun web apps and experiences
 
  <tr>
      <td width="50%" valign="top">
-      <h3 align="center">Motel: React lookbook</h3>
+      <h3 align="center">Motel: lookbook</h3>
         <br />
         <a target="_blank" href="https://motel-lookbook.netlify.app/">
             <img src="https://user-images.githubusercontent.com/99472735/195634800-053bb3cf-b9e4-438e-bbda-b9eda2239235.gif" width="100%" alt="Motel website demo gif"/>
