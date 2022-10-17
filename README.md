@@ -15,46 +15,6 @@ Berlin-based developer, interested in crafting fun web apps and experiences
 ### Recent Projects:
 
 <table bordercolor="#66b2b2">
-  
-  <tr>
-     <td width="50%" valign="top">
-      <h3 align="center">Motel: React lookbook</h3>
-        <br />
-        <a target="_blank" href="https://motel-lookbook.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/99472735/195634800-053bb3cf-b9e4-438e-bbda-b9eda2239235.gif" width="100%" alt="Motel website demo gif"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/Nick-Dalby/motel-lookbook" target="_blank">
-    code
-  </a>
-          |
-  <a href="https://motel-lookbook.netlify.app/" target="_blank">
-    demo
-  </a>  
-      </p>
-        <p>Single page image gallery built with React. <br>Features: custom cursor, loading progress component, responsive styles.</p>
-    </td>
-         <td width="50%" valign="top">
-      <h3 align="center">J.Velo: Porfolio / Blog</h3>
-        <br />
-        <a target="_blank" href="https://j-velo.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/99472735/195638666-9ab3dd9a-6443-40b6-9c5e-f24b946b1920.gif" width="100%" alt="J.Velo: Porfolio / Blog gif"/>
-        </a>
-        <br />
-          <p align="center">
-  <a href="https://github.com/Nick-Dalby/jvelo-landed" target="_blank">
-    code
-  </a>
-  |
-  <a href="https://j-velo.netlify.app/" target="_blank">
-    demo
-  </a>  
-      </p>
-        <p>React app utilising react-router and Apollo Client for GraphQL fetching and cacheing a Sanity CMS backend.</p>
-    </td>
-  </tr>
-  
   <tr>
      <td width="50%" valign="top">
       <h3 align="center">DeepL Translator</h3>
@@ -94,4 +54,83 @@ Berlin-based developer, interested in crafting fun web apps and experiences
         <p>React storefront utilising useContext, useReducer, routing, Auth0 authentication, styled-components and payments via Stripe + Netlify functions.</p>
     </td>
   </tr>
+
+ <tr>
+     <td width="50%" valign="top">
+      <h3 align="center">Motel: React lookbook</h3>
+        <br />
+        <a target="_blank" href="https://motel-lookbook.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/99472735/195634800-053bb3cf-b9e4-438e-bbda-b9eda2239235.gif" width="100%" alt="Motel website demo gif"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/Nick-Dalby/motel-lookbook" target="_blank">
+    code
+  </a>
+          |
+  <a href="https://motel-lookbook.netlify.app/" target="_blank">
+    demo
+  </a>  
+      </p>
+        <p>Single page image gallery built with React. <br>Features: custom cursor, loading progress component, responsive styles.</p>
+    </td>
+         <td width="50%" valign="top">
+      <h3 align="center">J.Velo: Porfolio / Blog</h3>
+        <br />
+        <a target="_blank" href="https://j-velo.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/99472735/195638666-9ab3dd9a-6443-40b6-9c5e-f24b946b1920.gif" width="100%" alt="J.Velo: Porfolio / Blog gif"/>
+        </a>
+        <br />
+          <p align="center">
+  <a href="https://github.com/Nick-Dalby/jvelo-landed" target="_blank">
+    code
+  </a>
+  |
+  <a href="https://j-velo.netlify.app/" target="_blank">
+    demo
+  </a>  
+      </p>
+        <p>React app utilising react-router and Apollo Client for GraphQL fetching and cacheing a Sanity CMS backend.</p>
+    </td>
+  </tr>
+
+
+
+  <tr>
+     <td width="50%" valign="top">
+      <h3 align="center">React Auth Flow</h3>
+        <br />
+        <a target="_blank" href="https://github.com/Nick-Dalby/react-auth-flow">
+            <img src="https://user-images.githubusercontent.com/99472735/196158554-15d9f09e-b32a-49f8-8652-be4e3a7a852d.gif" width="100%" alt="auth flow gif"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/Nick-Dalby/react-auth-flow" target="_blank">
+    code
+  </a>
+          |
+  <a href="https://tranquil-cat-2f4ccd.netlify.app/login" target="_blank">
+    demo
+  </a>  
+      </p>
+        <p>Auth and roles flow in React. <br>Features: JWT, protected routes, form validation.</p>
+    </td>
+         <td width="50%" valign="top">
+      <h3 align="center">Auth Server</h3>
+        <br />
+        <a target="_blank" href="https://github.com/Nick-Dalby/auth-server">
+            <img src="https://user-images.githubusercontent.com/99472735/196159396-d4300c15-4cd2-4b3c-b984-fad9f404ffae.gif" width="100%" alt="Auth server gif"/>
+        </a>
+        <br />
+          <p align="center">
+  <a href="https://github.com/Nick-Dalby/auth-server" target="_blank">
+    code
+  </a>
+      </p>
+        <p>NodeJs and Express RestAPI + MongoDB.</p>
+    </td>
+  </tr>
+  
+
 </table>
+
