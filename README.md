@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-Berlin-based developer, interested in crafting fun web apps and experiences
+Berlin-based developer, interested in crafting fun web experiences
 
 ### Working with:
 
